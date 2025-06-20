@@ -311,16 +311,10 @@ ROI: 1,080% annually
 
 ### 📱 Official Channels
 - **Website**: [gambler.city](https://gambler.city)
-- **Twitter**: [@GMBLR_Solana](https://twitter.com/GMBLR_Solana)
-- **Discord**: [Join Community](https://discord.gg/gambler)
-- **Telegram**: [GAMBLER Official](https://t.me/gambler_official)
-- **GitHub**: [Open Source](https://github.com/gambler-platform)
+- **Twitter**: [@GMBLR_Solana](https://x.com/GMBLR_Solana)
 
 ### 👥 Community Stats
-- **Twitter Followers**: 15,000+
-- **Discord Members**: 8,500+
-- **Telegram Subscribers**: 12,000+
-- **GitHub Stars**: 2,400+
+- **Twitter Followers**: 1,300+
 
 ---
 
@@ -375,10 +369,9 @@ ROI: 1,080% annually
 4. Stake $GMBLR for passive income
 
 ### 👨‍💻 For Developers
-1. Join our [Discord](https://discord.gg/gambler)
-2. Access SDK documentation
-3. Build your first game
-4. Deploy and start earning
+1. Access SDK documentation
+2. Build your first game
+3. Deploy and start earning
 
 ### 🏰 For Casino Owners
 1. Contact our team on [Twitter](https://twitter.com/GMBLR_Solana)
@@ -402,16 +395,8 @@ ROI: 1,080% annually
 - **Partnership**: partnerships@gambler.city
 
 ### 🛠️ Technical Support
-- **Discord**: [#support channel](https://discord.gg/gambler)
-- **Documentation**: [docs.gambler.city](https://docs.gambler.city)
-- **GitHub Issues**: [Report bugs](https://github.com/gambler-platform/issues)
+- **X**: [#X's post](https://x.com/GMBLR_Solana)
 
-### 📰 Media & Press
-- **Press Kit**: [press.gambler.city](https://press.gambler.city)
-- **Media Contact**: media@gambler.city
-- **Brand Assets**: [brand.gambler.city](https://brand.gambler.city)
-
----
 
 ## 📄 Legal & Compliance
 
